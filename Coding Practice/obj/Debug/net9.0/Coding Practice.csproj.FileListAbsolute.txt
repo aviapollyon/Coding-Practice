@@ -1,0 +1,14 @@
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.exe
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.deps.json
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.runtimeconfig.json
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.dll
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.pdb
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.AssemblyInfoInputs.cache
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.AssemblyInfo.cs
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.csproj.CoreCompileInputs.cache
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.dll
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\refint\Coding Practice.dll
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.pdb
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.genruntimeconfig.cache
+C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\ref\Coding Practice.dll
