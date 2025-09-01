@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nikki\\.nuget\\packages\\": {}
+    "C:\\Users\\aviap\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikki\\Documents\\Avinash Repositories\\Coding Practice\\Coding Practice\\Coding Practice.csproj",
+      "projectUniqueName": "C:\\Users\\aviap\\Downloads\\Projects\\Coding-Practice\\Coding Practice\\Coding Practice.csproj",
       "projectName": "Coding Practice",
-      "projectPath": "C:\\Users\\nikki\\Documents\\Avinash Repositories\\Coding Practice\\Coding Practice\\Coding Practice.csproj",
-      "packagesPath": "C:\\Users\\nikki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikki\\Documents\\Avinash Repositories\\Coding Practice\\Coding Practice\\obj\\",
+      "projectPath": "C:\\Users\\aviap\\Downloads\\Projects\\Coding-Practice\\Coding Practice\\Coding Practice.csproj",
+      "packagesPath": "C:\\Users\\aviap\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aviap\\Downloads\\Projects\\Coding-Practice\\Coding Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nikki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aviap\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

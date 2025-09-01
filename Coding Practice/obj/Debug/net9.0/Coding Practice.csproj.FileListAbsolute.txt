@@ -12,3 +12,18 @@ C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\ob
 C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.pdb
 C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.genruntimeconfig.cache
 C:\Users\nikki\Documents\Avinash Repositories\Coding Practice\Coding Practice\obj\Debug\net9.0\ref\Coding Practice.dll
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.exe
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.deps.json
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.runtimeconfig.json
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.dll
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\bin\Debug\net9.0\Coding Practice.pdb
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.AssemblyInfoInputs.cache
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.AssemblyInfo.cs
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.csproj.CoreCompileInputs.cache
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.sourcelink.json
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.dll
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\refint\Coding Practice.dll
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.pdb
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\Coding Practice.genruntimeconfig.cache
+C:\Users\aviap\Downloads\Projects\Coding-Practice\Coding Practice\obj\Debug\net9.0\ref\Coding Practice.dll
